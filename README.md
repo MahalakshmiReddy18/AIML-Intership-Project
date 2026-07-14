@@ -1,4 +1,11 @@
 **AIML-Internship Project-Templates**
+# Project Links
+
+**Project Repository**
+https://github.com/MahalakshmiReddy18/CreditCardApprovalApp
+
+**Live Demo**
+https://creditcardapprovalapp.onrender.com
 
 ->Repository Structure:
 
@@ -17,3 +24,4 @@
 7.Project Documentation
 
 8.Project Demonstration
+
