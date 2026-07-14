@@ -1,4 +1,4 @@
-# AIML-Internship Project-Templates
+# Credi Card Approval Prediction-Internship Project-Templates
 
 # Project Links
 
