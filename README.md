@@ -10,7 +10,7 @@ https://creditcardapprovalapp.onrender.com
 **Demo Video Link**
 https://drive.google.com/file/d/1OpC_jaxNdNobt6cI5YgpzKFUCDGT-iIM/view?usp=sharing
 
-->Repository Structure:
+**Repository Structure:**
 
 1.Brainstorming & Ideation
 
