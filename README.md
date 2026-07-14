@@ -4,8 +4,10 @@
 **Project Repository**
 https://github.com/MahalakshmiReddy18/CreditCardApprovalApp
 
-**Live Demo**
+**Render link**
 https://creditcardapprovalapp.onrender.com
+**Demo Video Link**
+https://drive.google.com/file/d/1OpC_jaxNdNobt6cI5YgpzKFUCDGT-iIM/view?usp=sharing
 
 ->Repository Structure:
 
