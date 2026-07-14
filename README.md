@@ -1,4 +1,4 @@
-**AIML-Internship Project-Templates**
+# AIML-Internship Project-Templates
 
 # Project Links
 
