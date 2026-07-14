@@ -1,6 +1,6 @@
-AIML-Internship Project-Templates
+**AIML-Internship Project-Templates**
 
-Repository Structure
+->Repository Structure:
 
 1.Brainstorming & Ideation
 
