@@ -9,7 +9,7 @@ https://github.com/MahalakshmiReddy18/CreditCardApprovalApp
 https://creditcardapprovalapp.onrender.com
 
 **Demo Video Link**
-https://drive.google.com/file/d/1OpC_jaxNdNobt6cI5YgpzKFUCDGT-iIM/view?usp=sharing
+https://drive.google.com/file/d/1zQZJphlKkW7dzGkem-Z-s_UHBgBJT4h5/view?usp=sharing
 
 **Repository Structure:**
 
