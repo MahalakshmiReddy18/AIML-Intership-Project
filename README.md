@@ -1,6 +1,17 @@
-AIML-Internship Project-Templates
+# Credi Card Approval Prediction-Internship Project-Templates
 
-Repository Structure
+# Project Links
+
+**Project Repository**
+https://github.com/MahalakshmiReddy18/CreditCardApprovalApp
+
+**Render link**
+https://creditcardapprovalapp.onrender.com
+
+**Demo Video Link**
+https://drive.google.com/file/d/1OpC_jaxNdNobt6cI5YgpzKFUCDGT-iIM/view?usp=sharing
+
+**Repository Structure:**
 
 1.Brainstorming & Ideation
 
@@ -17,3 +28,4 @@ Repository Structure
 7.Project Documentation
 
 8.Project Demonstration
+
